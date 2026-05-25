@@ -1,0 +1,2 @@
+# Sem dependências externas — só stdlib Python 3.11+
+# SQLite já vem embutido no Python
